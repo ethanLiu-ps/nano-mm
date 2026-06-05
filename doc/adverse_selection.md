@@ -168,6 +168,8 @@ $$
 \text{realized spread}(\tau) = 2 \cdot \text{markout}(\tau) + \text{fee rebate}
 $$
 
+$$\text{capture ratio} = \frac{\text{quoted spread} + 2 \cdot \text{markout}}{\text{quoted spread}}$$
+
 直觉：
 - Quoted spread 是你"理论上能赚的"
 - Realized spread 是你"实际赚到的"
